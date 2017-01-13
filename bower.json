@@ -1,0 +1,23 @@
+{
+  "name": "Draw2d",
+  "authors": [
+    "Raul Ojeda <rauloojs@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "draw2d": "^6.1.66",
+    "angular": "^1.6.1",
+    "angular-material": "^1.1.1",
+    "jquery-ui": "^1.12.1"
+  }
+}

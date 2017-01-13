@@ -1,0 +1,86 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.lo
+*.la
+*.rej
+*.pyc
+*.pyo
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.tmproj
+
+# Editor backup files #
+#######################
+*~
+.fuse_hidden*
+
+# Other VCSes #
+###############
+.svn
+
+# Python projects related #
+###########################
+*.egg-info
+.egg-info.installed.cfg
+*.pt.py
+*.cpt.py
+*.zpt.py
+*.html.py
+*.egg
+.mr.developer.cfg
+.installed.cfg
+.vagrant
+pyvenv.cfg
+pip-selfcheck.json
+eggs/
+develop-eggs/
+parts/
+var/
+etc/data/
+bin/
+lib/
+static/
+venv/
+.idea/
+.xml
+get-pip.py*
+
+environ/
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+dist/
+._*
